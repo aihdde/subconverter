@@ -7,7 +7,7 @@ match = "(?i:\\bHK[G]?\\b|Hong.*?Kong|\\bHKT\\b|\\bHKBN\\b|\\bHGC\\b|\\bWTT\\b|\
 emoji = "🇭🇰"
 
 [[emoji]]
-match = "(?i:\\bTW[N]?\\b|Taiwan|新北|彰化|台北|\\bCHT\\b|台湾|[^-]台|\\bHINET\\b)"
+match = "(?i:\\bTW[N]?\\b|Taiwan|新北|彰化|\\bCHT\\b|台湾|[^-]台|\\bHINET\\b)"
 emoji = "🇹🇼"
 
 [[emoji]]
